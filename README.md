@@ -168,19 +168,8 @@ A developer passionate about performance optimization and making the web faster 
 
 ## License
 
-**MIT License** — Use it, modify it, break it, fix it. Just keep it cool and give credit where it's due.
+** GNU GENERAL PUBLIC LICENSE Version 3**
 
-```
-Copyright (c) 2008-2026 Volkan Sah
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
----
 
 ## Support
 
