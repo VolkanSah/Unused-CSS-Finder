@@ -192,4 +192,4 @@ copies of the Software...
 
 **Remember:** Always test cleaned CSS before going live. This tool is smart, but you're smarter. 🧠
 
-> Readme.md crafted by AI - PHP Code crafted by Volkan Sah
+> Readme.md crafted with help of AI - PHP Code crafted by Volkan Sah
