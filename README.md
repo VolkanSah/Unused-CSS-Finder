@@ -171,7 +171,7 @@ A developer passionate about performance optimization and making the web faster 
 **MIT License** — Use it, modify it, break it, fix it. Just keep it cool and give credit where it's due.
 
 ```
-Copyright (c) 2024 Volkan Sah
+Copyright (c) 2008-2026 Volkan Sah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
