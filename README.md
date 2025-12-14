@@ -1,4 +1,5 @@
 # CSS Cleaner Pro 
+##### V.1.0.8
 
 *"You killed Kenny! You bastards!"* — But your CSS doesn't have to die unused anymore.
 
